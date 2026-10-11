@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b75dc9c0413bb2845894fd45d39b5f3b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _FX_TX_Star_01: {fileID: 2800000, guid: 401726eeb05320847877d41bdcb0f9ff, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

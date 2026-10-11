@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b124c1aa2a22a8f468a77c00f5938185
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WaterDropSprite2x2: {fileID: 2800000, guid: cdfe2ff2c8c37de449a7248aa91c0b6f,
+      type: 3}
+  - _TextureSample0: {fileID: 2800000, guid: e60927bbac690a745a8614a2086845d7, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
